@@ -1,0 +1,25 @@
+{
+  "name": "one_hour_test",
+  "version": "1.0.0",
+  "description": "this is a one hour test to set up a complete express server with a database with route handlers",
+  "main": "one_hour.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaonrybicki/one_hour_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaonrybicki/one_hour_test/issues"
+  },
+  "homepage": "https://github.com/aaonrybicki/one_hour_test#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "pg": "^8.8.0"
+  }
+}
